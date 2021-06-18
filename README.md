@@ -22,7 +22,7 @@ String a = "test java" vs String b = "test java"
 String c = null vs String b = "test java"
 ```
 
-#### 3.Write a program to remove all special character of String
+#### 3.Write a java method to remove all special character of String
 ```
 -- ex input: dsskfh#$2839&&635!!228e~~++(*
 output: dsskfh2839635228e

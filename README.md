@@ -31,3 +31,16 @@ output: dsskfh2839635228e
 
 #### 6.Write a java method to convert data type String to Integer 
 
+#### 7.Viết function check 1 số nhập vào là số chẵn hay là số lẽ
+
+#### 8.Viết function để lấy giá tiền của đoạn text bên dưới
+```
+Input: Đơn hàng của bạn có giá 180.67đ. (thanks u)
+Output: 180.67
+```
+
+#### 9.Viết function count có bao nhiêu từ trong 1 đoạn text nhập vào. Return về số đó.
+
+#### 10.Viết function tính diện tích của hình vuông.
+
+

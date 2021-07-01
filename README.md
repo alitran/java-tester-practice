@@ -43,4 +43,20 @@ Output: 180.67
 
 #### 10.Viết function tính diện tích của hình vuông.
 
+#### 11. Viết function để chuyển giờ và phút qua giây
 
+#### 12. Viết function để chuyển số năm qua ngày (ex: 2năm = 365*2. giả sử cứ 4 năm là có 1 năm nhuận)
+
+#### 13. Viết function để tính điểm cho đội tuyển trong giải bóng đá. Biết 1 trận thắng được 3 điểm, trận hòa 1 điểm, trận thua 0 điểm.
+
+#### 14. VIết function trả về true nếu paramater chia hết cho 3 và ngược lại.
+
+#### 15. Viết function tính tổng các item trong array
+
+#### 16. Viết function đảo ngược chuỗi nhập vào.
+
+#### 17. Viết function để kiểm tra 1 giá trị có tồn tại trong 1 array hay ko?
+
+#### 18. Viết function remove ký tự đầu tiên và cuối cùng của 1 chuỗi.
+
+#### 19. Viết function tìm vị trí 1 từ trong chuỗi. Nếu ko tìm đc từ đó thì return về 0. Nếu bạn thấy nhiều từ trong chuỗi thì chỉ lấy vị trí đầu tiên.

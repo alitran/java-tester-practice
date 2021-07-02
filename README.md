@@ -38,6 +38,12 @@ output: dsskfh2839635228e
 Input: Đơn hàng của bạn có giá 180.67đ. (thanks u)
 Output: 180.67
 ```
+      public static void main(String []args){
+        System.out.println("Hello World");
+        String a = "Đơn hàng của bạn có giá 180.67đ. (thanks u)";
+        a = a.replaceAll("[^\\d.đ]+|\\.(?!\\d)", "");
+        System.out.println(a);
+     }
 
 #### 9.Viết function count có bao nhiêu từ trong 1 đoạn text nhập vào. Return về số đó.
 
